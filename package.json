@@ -1,0 +1,9 @@
+{
+  "name": "@seracio/types-ligue1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/seracio/types-ligue1.git",
+  "author": "nmondon <nicolasmondon@gmail.com>",
+  "license": "MIT",
+  "types": "index.d.ts"
+}
