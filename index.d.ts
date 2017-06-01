@@ -2,7 +2,7 @@ declare namespace Ligue1 {
 
     // a time on a match
     interface Time {
-        time: number
+        minute: number
         extra?: number
     }
 
