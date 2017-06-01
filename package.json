@@ -1,6 +1,6 @@
 {
   "name": "@seracio/types-ligue1",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "index.js",
   "repository": "https://github.com/seracio/types-ligue1.git",
   "author": "nmondon <nicolasmondon@gmail.com>",
