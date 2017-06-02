@@ -34,8 +34,8 @@ declare namespace Ligue1 {
         matchId: string
         playerId: string
         teamId: string
-        in: Time
-        out: Time
+        enter: Time
+        exit: Time
         isSubstitute: boolean
         isCaptain: boolean
     }
