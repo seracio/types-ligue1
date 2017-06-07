@@ -67,6 +67,7 @@ declare namespace Ligue1 {
         id: string
         label: string
         logo: string
+        colors: [string]
     }
 
     interface Goal {
