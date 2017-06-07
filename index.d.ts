@@ -74,6 +74,7 @@ declare namespace Ligue1 {
         matchId: string
         playerId: string
         playerAssistId?: string
+        teamId: string
         isPenalty: boolean
         isOG: boolean
         time: Time
@@ -88,6 +89,7 @@ declare namespace Ligue1 {
         index: number
         matchId: string
         playerId: string
+        teamId: string
         week: number
         season: string
     }
